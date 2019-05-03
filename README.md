@@ -1,2 +1,2 @@
-# uciMushroomClassification
+# UciMushroomClassification
 通过Xgboost实现UCI蘑菇数据集分类，AUC达到1
